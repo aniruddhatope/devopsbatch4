@@ -1,2 +1,6 @@
 git status
 git init
+git log
+git log --oneline
+git log --oneline --pretty
+git checkout
